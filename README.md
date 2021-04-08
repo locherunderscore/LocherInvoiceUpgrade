@@ -1,2 +1,10 @@
-# locherinvoiceupgrade
-Shopware 5 - specific invoice upgrade that includes supplierNumber + internal comments
+# LocherInvoiceUpgrade
+
+![LocherInvoice](locher_invoice.jpg)  
+LocherInvoiceUpgrade is a plugin that adds ...  
+* **supplierNumber** for each orderPosition
+* **internal comment**  
+
+for a specific document type (it checks via **$Document.name**)
+
+*Developed for shopware 5*
